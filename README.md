@@ -1,9 +1,11 @@
 Input - hardcoded filename
 Output- hardcoded output filename, converts to avi, audio removed.
 
-to run
-$pip install -r requirements.txt
-$python shot_tracer_new.py
+
+```$pip install -r requirements.txt```
+
+
+```$python shot_tracer_new.py```
 
 
 Once the video appears, use the forward arrow key to move ahead in frames. 
